@@ -1,6 +1,5 @@
-/* reset */
-*{
-    margin:0;
-    padding: 0;
-    box-sizing:border-box ;
+.row > [class="col"]{
+    min-height: 100px;
+    background-color: brown;
+    border:2px solid blue;
 }
