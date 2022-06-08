@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing:border-box ;
 }
+.mg-50{
+    margin-top: 50px;
+}
 /* container*/
 .container{
     width: 100%;
@@ -28,7 +31,7 @@
 }
  /*col */
  .row > .col{
-    flex-shrink:0 ; 
+    flex-shrink: 0 ; 
     max-width: 100%;
     flex-basis: auto;
     flex-grow: 1;
